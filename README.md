@@ -20,7 +20,7 @@ Traditional statistical methods struggle with non-linear patterns in match dynam
 ## 📂 Dataset Description
 
 The dataset (`ipl_data.csv`) consists of **ball-by-ball match data** from IPL matches.
-
+It contains data from 2008 to 2017 and contains features like venue, date, batting and bowling team, names of batsman and bowler, wickets and more.
 ### 📊 Dataset Shape
 - **Rows:** 76,014
 - **Columns:** 15
